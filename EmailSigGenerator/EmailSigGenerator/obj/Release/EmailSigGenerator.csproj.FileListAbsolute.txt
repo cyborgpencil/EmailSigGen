@@ -1,0 +1,16 @@
+C:\Apps\EmailSigGenerator\EmailSigGenerator\bin\Release\EmailSigGenerator.exe.config
+C:\Apps\EmailSigGenerator\EmailSigGenerator\bin\Release\EmailSigGenerator.exe.manifest
+C:\Apps\EmailSigGenerator\EmailSigGenerator\bin\Release\EmailSigGenerator.application
+C:\Apps\EmailSigGenerator\EmailSigGenerator\bin\Release\EmailSigGenerator.exe
+C:\Apps\EmailSigGenerator\EmailSigGenerator\bin\Release\EmailSigGenerator.pdb
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Release\MainWindow.baml
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Release\MainWindow.g.cs
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Release\App.g.cs
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Release\EmailSigGenerator_MarkupCompile.cache
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Release\EmailSigGenerator.g.resources
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Release\EmailSigGenerator.Properties.Resources.resources
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Release\EmailSigGenerator.csproj.GenerateResource.Cache
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Release\EmailSigGenerator.exe.manifest
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Release\EmailSigGenerator.application
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Release\EmailSigGenerator.exe
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Release\EmailSigGenerator.pdb

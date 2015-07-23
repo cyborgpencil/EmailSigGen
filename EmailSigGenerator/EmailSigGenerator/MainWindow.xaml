@@ -1,0 +1,59 @@
+﻿<Window x:Class="EmailSigGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="500" Width="768">
+    <Grid>
+        <Label Content="First Name:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Last Name:" HorizontalAlignment="Left" Margin="190,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Title:" HorizontalAlignment="Left" Margin="322,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Department:" HorizontalAlignment="Left" Margin="543,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtbxFirstName" HorizontalAlignment="Left" Height="23" Margin="11,36,0,0" TextWrapping="Wrap" Text="John" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtbxLastName" HorizontalAlignment="Left" Height="23" Margin="191,36,0,0" TextWrapping="Wrap" Text="Doe" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnGenerate" Content="Generate" HorizontalAlignment="Left" Margin="10,169,0,0" VerticalAlignment="Top" Width="138" Click="btnGenerate_Click" Height="38"/>
+        <TextBox x:Name="txtBxSig" HorizontalAlignment="Left" Height="214" Margin="10,247,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="740"/>
+        <Label Content="Generated Email:" HorizontalAlignment="Left" Margin="10,216,0,0" VerticalAlignment="Top"/>
+        <Label Content="Email:" HorizontalAlignment="Left" Margin="14,73,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtbxEmail" HorizontalAlignment="Left" Height="23" Margin="61,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="472" IsEnabled="False"/>
+        <CheckBox x:Name="chbxEmailEnable" Content="Enable" HorizontalAlignment="Left" Margin="544,84,0,0" VerticalAlignment="Top" Click="chbxEmailEnable_Click"/>
+        <ComboBox x:Name="cbbxDeparment" HorizontalAlignment="Left" Margin="540,37,0,0" VerticalAlignment="Top" Width="210" SelectedIndex="0">
+            <ComboBoxItem Content="Administration"/>
+            <ComboBoxItem Content="Accounting"/>
+            <ComboBoxItem Content="Bio-Med"/>
+            <ComboBoxItem Content="Case Management"/>
+            <ComboBoxItem Content="Dietary"/>
+            <ComboBoxItem Content="ER"/>
+            <ComboBoxItem Content="Facilities"/>
+            <ComboBoxItem Content="Maintainance"/>
+            <ComboBoxItem Content="HR"/>
+            <ComboBoxItem Content="IS"/>
+            <ComboBoxItem Content="ICU"/>
+            <ComboBoxItem Content="Lab"/>
+            <ComboBoxItem Content="Materials"/>
+            <ComboBoxItem Content="Medical Records"/>
+            <ComboBoxItem Content="Med/Surg"/>
+            <ComboBoxItem Content="Nursing Admin"/>
+            <ComboBoxItem Content="Nursing Home"/>
+            <ComboBoxItem Content="OB"/>
+            <ComboBoxItem Content="Rehab"/>
+            <ComboBoxItem Content="Pharmacy"/>
+            <ComboBoxItem Content="Quality"/>
+            <ComboBoxItem Content="Radiology"/>
+            <ComboBoxItem Content="Registration"/>
+            <ComboBoxItem Content="Respirtory"/>
+            <ComboBoxItem Content="Surgery"/>
+            <ComboBoxItem Content="Clinic"/>
+        </ComboBox>
+        <ComboBox x:Name="cbbxTitle" HorizontalAlignment="Left" Margin="325,37,0,0" VerticalAlignment="Top" Width="210" SelectedIndex="0">
+            <ComboBoxItem Content="RN"/>
+            <ComboBoxItem Content="CNA"/>
+            <ComboBoxItem Content="MD"/>
+            <ComboBoxItem Content="CRT"/>
+            <ComboBoxItem Content="RRT"/>
+            <ComboBoxItem Content="DO"/>
+        </ComboBox>
+        <Label Content="Phone:" HorizontalAlignment="Left" Margin="14,106,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtbxPhone" HorizontalAlignment="Left" Height="23" Margin="61,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="291" IsEnabled="False"/>
+        <CheckBox x:Name="chbxPhoneEnable" Content="Enable" HorizontalAlignment="Left" Margin="357,117,0,0" VerticalAlignment="Top" Click="chbxPhoneEnable_Click"/>
+
+    </Grid>
+</Window>

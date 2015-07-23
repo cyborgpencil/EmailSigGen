@@ -1,0 +1,17 @@
+C:\Apps\EmailSigGenerator\EmailSigGenerator\bin\Debug\EmailSigGenerator.exe.config
+C:\Apps\EmailSigGenerator\EmailSigGenerator\bin\Debug\EmailSigGenerator.exe
+C:\Apps\EmailSigGenerator\EmailSigGenerator\bin\Debug\EmailSigGenerator.pdb
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Debug\EmailSigGenerator.csprojResolveAssemblyReference.cache
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Debug\MainWindow.baml
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Debug\MainWindow.g.cs
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Debug\App.g.cs
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Debug\EmailSigGenerator_MarkupCompile.cache
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Debug\EmailSigGenerator.g.resources
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Debug\EmailSigGenerator.Properties.Resources.resources
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Debug\EmailSigGenerator.csproj.GenerateResource.Cache
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Debug\EmailSigGenerator.exe
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Debug\EmailSigGenerator.pdb
+C:\Apps\EmailSigGenerator\EmailSigGenerator\bin\Debug\EmailSigGenerator.exe.manifest
+C:\Apps\EmailSigGenerator\EmailSigGenerator\bin\Debug\EmailSigGenerator.application
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Debug\EmailSigGenerator.exe.manifest
+C:\Apps\EmailSigGenerator\EmailSigGenerator\obj\Debug\EmailSigGenerator.application
